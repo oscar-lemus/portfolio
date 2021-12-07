@@ -8,55 +8,43 @@ export const projects = [
       //link: "https://reactbootcamp.com",
     },
     {
-      title: "Full Stack Engineered Solution",
-      subtitle: "React and Electron.js",
+      title: "Personal Automation Project",
+      subtitle: "Python and Amazon SNS",
       description:
-        "Full Stack Engineering project to track receipts and shipments for a manufacturer. This desktop application creates PDF documents, fills out templates, and creates custom printable tracking documents.",
-      image: "/indo-qa.png",
+        "Website parser that checks for changes in bus outage information and sends me a text message if my child's bus is running late or is out of service for the day.",
+      image: "/amazon_sns.png",
       //link: "https://reactbootcamp.com",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Resume Parser Extension",
+      subtitle: "React Google and Chrome API",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "Resume parser used to extract basic information and automate the addition of candidates and then adds the information to a database via an API. Created as a Web Browser Chrome Extension to limit the need for additional apps.",
+      image: "/ppdg-extension.png",
+      //link: "https://jsbootcamp.com",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Elk Stack",
+      subtitle: "Amazon AWS, EC2 + S2 + Elastic Stack",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "ELK Stack environment used to increase the security of an enterprise.",
+      image: "/elk_stack.png",
+      //link: "https://pythonbootcamp.com",
     },
   ];
   export const skills = ["React","Electron.js","Python","JavaScript", "Penetration Testing", "C/C++","Chromium Extensions","Amazon Web Services","Microservices","Virtualization", "Automation","Web Security"]; 
 
   export const testimonials = [
     {
-      quote: "Oscar is amazing! The work done by Oscar has saved us so much time and money!",
-      image: "/google.png", 
-      name: "John Smith", 
-      company: "Google"
+      quote: "Oscar has surprised me by creating exactly what we need, sometimes wihout alot of information.",
+      image: "/ppdg_logo.jfif", 
+      name: "Cecil Yancy", 
+      company: "PPDG"
     },
     {
       quote: "Oscar is amazing! The work done by Oscar has saved us so much time and money!",
-      image: "/google.png", 
-      name: "John Smith", 
-      company: "Google"
+      image: "/optech_logo.png", 
+      name: "Louis Miorelli ", 
+      company: "Optech"
     }, 
-    {
-      quote: "Oscar is amazing! The work done by Oscar has saved us so much time and money!",
-      image: "/google.png", 
-      name: "John Smith", 
-      company: "Google"
-    }, 
-    {
-      quote: "Oscar is amazing! The work done by Oscar has saved us so much time and money!",
-      image: "/google.png", 
-      name: "John Smith", 
-      company: "Google"
-    }
   ]; 

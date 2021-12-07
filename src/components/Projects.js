@@ -12,7 +12,11 @@ export default function Projects() {
                 Apps I've Built
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                Meetings to present deployment ready applications and solutions are my favorite! I like to keep you involved at every step to ensure the final product is what you expect. 
+              I’m always learning new technologies. My passion is to create things that improve efficiency. 
+              I’m not scared to take on new projects with new technologies. 
+              I’m listing some projects that show that I’m always learning. 
+              Other projects I have worked on include: Penetration testing, 
+              website design, menu analysis/design, and consulting.  
               </p>
             </div>
             <div className="flex flex-wrap -m-4">

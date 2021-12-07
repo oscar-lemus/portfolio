@@ -12,9 +12,8 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            I enjoy learning new technologies. Here is a list of some recent skills I've used to complete some projects. I'm willing and eager to learn any technology you need to complete your project.
+            I'm a tinkerer and a dreamer; my list of personal projects keeps growing everyday! 
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
